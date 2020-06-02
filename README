@@ -1,0 +1,19 @@
+Compile in this directory using the command:
+
+	make asalted
+
+
+When successful, type this for help on the syntax: 
+
+	asalted -h
+
+
+	License: This software is distributed under a Creative Commons BY-SA
+	license. You can use it, modify it, and distribute it without consulting
+	the author. You  must cite the original authorship and share your
+	modifications alike:  
+	The scientific citation is:
+
+	Garcia-Castellanos, D., A. Villaseñor, 2011. Messinian salinity crisis regulated by competing tectonics and erosion at the Gibraltar Arc. Nature, doi:10.1038/nature10651.
+
+	Daniel Garcia-Castellanos, 2011.
